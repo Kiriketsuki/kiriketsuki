@@ -5,7 +5,7 @@ Also: Very well versed in pop culture, from binging Netflix shows, to watching s
 
 ## Skills
 ### Languages
-- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" style="width: 64px; height: 64px"/>
+- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" style="width: 16px; height: 16px"/>
 - Java
 - Javascript
 - Ruby
