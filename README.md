@@ -1,6 +1,6 @@
 # Lim Zhe Hong, Jovian
 Check out my portfolio website at https://www.tetsuhiro.dev!
-<img src="https://github.com/Kiriketsuki/kiriketsuki/blob/main/Screenshot%202022-08-11%20110526.png"/>
+<a href="www.tetsuhiro.dev"> <img src="https://github.com/Kiriketsuki/kiriketsuki/blob/main/Screenshot%202022-08-11%20110526.png"/> </a>
 A Computer Science major at Nanyang Technological University. Interested in Web Development, Artificial Intelligence, Data Science, and Machine Learning.
 Also: Very well versed in pop culture, from binging Netflix shows, to watching streamers on Youtube and Twitch, to having a substantial Steam library
 
