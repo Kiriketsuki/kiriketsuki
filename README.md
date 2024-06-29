@@ -39,11 +39,12 @@ Also: Very well versed in pop culture, from binging Netflix shows, to watching s
 
 ## About
 - 🔭 I’m currently working on:
-    - A data entry bot, using GCP's DocumentAI
-    - A website for Wyn Monde
+    - A personal pet project, a videogame
+    - Microprocessor firmware development
+    - My Final Year Project, based on speech-to-text AI, and desktop application development
 
 - 🌱 I’m currently learning:
-    - Google Cloud SDK and CLI
+    - Godot
     
 <!--
 **Kiriketsuki/kiriketsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
