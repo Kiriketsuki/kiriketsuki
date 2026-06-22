@@ -1,14 +1,14 @@
 # Jovian (Zhe Hong) Lim
 
-Full-stack software engineer, frontend at heart. I build real-time interfaces and the systems behind them.
+I love building things, especially the kind you can see and click. I'm a full-stack software engineer, happiest on the frontend, where a bunch of lines of code turn into something tangible.
 
 LinkedIn: [jovian-lim-tetsuhiro](https://www.linkedin.com/in/jovian-lim-tetsuhiro)
 
-## What I'm doing now
+## What I'm working on
 
-Software Engineer at Aurrigo, working on AutoConnect, the platform that runs autonomous baggage and cargo fleets at airports including Changi, Zurich, and Schiphol. I build the operator-facing interfaces (Vue 3 and MapLibre live-map HUDs) and own features end to end, from the UI down to the services and data they run on. When the backend needed serious work, I picked it up too, leading a migration to event-driven gRPC and a move to a domain-driven, cloud-hosted architecture.
+Right now I'm a Software Engineer at Aurrigo, working on AutoConnect, the platform that runs autonomous baggage and cargo fleets at airports like Changi, Zurich, and Schiphol. I build the operator-facing interfaces, live-map HUDs in Vue 3 and MapLibre, and I love getting to own a feature the whole way, from the UI down to the services and data behind it. When the backend needed serious work I picked that up too, and ended up leading a migration to event-driven gRPC and a move to a domain-driven, cloud-hosted architecture.
 
-Outside work I build for fun: web apps, small tools and engines, and the occasional game. Currently poking at Godot.
+Outside of work I just like making things: web apps, little tools and engines, and the occasional game. Currently messing around with Godot.
 
 ## Tech
 
