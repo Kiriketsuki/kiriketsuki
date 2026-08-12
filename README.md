@@ -10,6 +10,19 @@ Right now I'm a Software Engineer at Aurrigo, working on AutoConnect, the platfo
 
 Outside of work I just like making things: web apps, little tools and engines, and the occasional game. Currently messing around with Godot.
 
+## Open source
+
+**Chrysaki**, a dark-first, jewel-toned design system I use everywhere:
+
+- [chrysaki](https://github.com/Kiriketsuki/chrysaki), the umbrella: brand, palette, and ports for 20 apps (terminals, editors, desktop, web)
+- [chrysaki-core](https://github.com/Kiriketsuki/chrysaki-core), the schema-first token source every integration pins
+- [chrysaki-claude](https://github.com/Kiriketsuki/chrysaki-claude), a four-line Claude Code status bar built on core tokens
+- [chrysaki-pi](https://github.com/Kiriketsuki/chrysaki-pi), the Pi harness theme and extensions
+
+**Agentic tooling**:
+
+- [agenKic-hub](https://github.com/Kiriketsuki/agenKic-hub), my agentic setup as an installable hub: Claude Code skills, multi-agent workflows, hooks, and terminal configs
+
 ## Tech
 
 ### Frontend
