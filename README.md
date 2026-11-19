@@ -17,9 +17,9 @@ Outside of work I just like making things: web apps, little tools and engines, a
 - [clodeKs](https://github.com/Kiriketsuki/clodeKs), a bridge between Claude Code and the OpenAI Codex CLI: Codex subagents in Workflows, a Claude mod, and cross-session messages
 - [agenKic-hub](https://github.com/Kiriketsuki/agenKic-hub), my agentic setup as an installable hub: Claude Code skills, multi-agent workflows, hooks, and terminal configs
 - [agenKic-orKistrator](https://github.com/Kiriketsuki/agenKic-orKistrator), a pixel-art orchestrator that gives each agent session a name and a face
-- [kliproxy-setup](https://github.com/Kiriketsuki/kliproxy-setup), a setup kit for a pooled Claude Code proxy: pools, a reset-aware router, a spend guard, and a status endpoint
 - [usaki](https://github.com/Kiriketsuki/usaki), a floating hexagon widget that shows AI subscription usage windows on Hyprland and Windows 11
 - [ralph-loop](https://github.com/Kiriketsuki/ralph-loop), a headless agent loop: plan, execute, verify
+- [kliproxy-setup](https://github.com/Kiriketsuki/kliproxy-setup), a setup kit for a pooled Claude Code proxy: pools, a reset-aware router, a spend guard, and a status endpoint
 
 **Chrysaki**, a dark-first, jewel-toned design system I use everywhere:
 
