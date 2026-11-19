@@ -2,15 +2,24 @@
 
 I love building things, especially the kind you can see and click. I'm a full-stack software engineer, happiest on the frontend, where a bunch of lines of code turn into something tangible.
 
-LinkedIn: [jovian-lim-tetsuhiro](https://www.linkedin.com/in/jovian-lim-tetsuhiro)
+Site: [tetsuhiro.dev](https://tetsuhiro.dev) · LinkedIn: [jovian-lim-tetsuhiro](https://www.linkedin.com/in/jovian-lim-tetsuhiro) · X: [@TetsuhiroDev](https://x.com/TetsuhiroDev)
 
 ## What I'm working on
 
-Right now I'm a Software Engineer at Aurrigo, working on AutoConnect, the platform that runs autonomous baggage and cargo fleets at airports like Changi, Zurich, and Schiphol. I build the operator-facing interfaces, live-map HUDs in Vue 3 and MapLibre, and I love getting to own a feature the whole way, from the UI down to the services and data behind it. When the backend needed serious work I picked that up too, and ended up leading a migration to event-driven gRPC and a move to a domain-driven, cloud-hosted architecture.
+Right now I'm a Senior Software Engineer at Aurrigo, working on Auto-Connect, the platform that runs autonomous baggage and cargo fleets at airports like Changi, Zurich, and Schiphol. I build the operator-facing interfaces, live-map HUDs in Vue 3 and MapLibre, and I love getting to own a feature the whole way, from the UI down to the services and data behind it. When the backend needed serious work I picked that up too, and ended up leading a migration to event-driven gRPC and a move to a domain-driven, cloud-hosted architecture.
 
-Outside of work I just like making things: web apps, little tools and engines, and the occasional game. Currently messing around with Godot.
+Outside of work I just like making things: web apps, little tools and engines, and the occasional game. Most of that time now goes into agentic tooling. I run many Claude Code and Codex sessions at once, so I build the tools that let them work together.
 
 ## Open source
+
+**Agentic tooling**:
+
+- [clodeKs](https://github.com/Kiriketsuki/clodeKs), a bridge between Claude Code and the OpenAI Codex CLI: Codex subagents in Workflows, a Claude mod, and cross-session messages
+- [agenKic-hub](https://github.com/Kiriketsuki/agenKic-hub), my agentic setup as an installable hub: Claude Code skills, multi-agent workflows, hooks, and terminal configs
+- [agenKic-orKistrator](https://github.com/Kiriketsuki/agenKic-orKistrator), a pixel-art orchestrator that gives each agent session a name and a face
+- [usaki](https://github.com/Kiriketsuki/usaki), a floating hexagon widget that shows AI subscription usage windows on Hyprland and Windows 11
+- [ralph-loop](https://github.com/Kiriketsuki/ralph-loop), a headless agent loop: plan, execute, verify
+- [kliproxy-setup](https://github.com/Kiriketsuki/kliproxy-setup), a setup kit for a pooled Claude Code proxy: pools, a reset-aware router, a spend guard, and a status endpoint
 
 **Chrysaki**, a dark-first, jewel-toned design system I use everywhere:
 
@@ -18,10 +27,6 @@ Outside of work I just like making things: web apps, little tools and engines, a
 - [chrysaki-core](https://github.com/Kiriketsuki/chrysaki-core), the schema-first token source every integration pins
 - [chrysaki-claude](https://github.com/Kiriketsuki/chrysaki-claude), a four-line Claude Code status bar built on core tokens
 - [chrysaki-pi](https://github.com/Kiriketsuki/chrysaki-pi), the Pi harness theme and extensions
-
-**Agentic tooling**:
-
-- [agenKic-hub](https://github.com/Kiriketsuki/agenKic-hub), my agentic setup as an installable hub: Claude Code skills, multi-agent workflows, hooks, and terminal configs
 
 ## Tech
 
